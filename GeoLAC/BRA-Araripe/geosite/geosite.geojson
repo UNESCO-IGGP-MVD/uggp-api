@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "geosite",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "GS01", "name": "Pontal da Santa Cruz", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.748237736410502, -7.198002799090852 ] } },
+{ "type": "Feature", "properties": { "id": "GS02", "name": "Santana do Cariri", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.718459135284725, -7.204048079018643 ] } },
+{ "type": "Feature", "properties": { "id": "GS03", "name": "Pedra Cariri", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.687001289734553, -7.106875801660831 ] } },
+{ "type": "Feature", "properties": { "id": "GS04", "name": "Ponte de Pedra", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.61289063580498, -7.133631762822717 ] } },
+{ "type": "Feature", "properties": { "id": "GS05", "name": "Belmonte", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.44647751334832, -7.241271330425869 ] } },
+{ "type": "Feature", "properties": { "id": "GS06", "name": "Juazeiro do Norte Colina do Horto", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.332064993233466, -7.17857953858212 ] } },
+{ "type": "Feature", "properties": { "id": "GS07", "name": "Riacho do Meio", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.295793313666735, -7.331054932316385 ] } },
+{ "type": "Feature", "properties": { "id": "GS08", "name": "Cachoeira de Missão Velha", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.135033647438824, -7.211268830043506 ] } },
+{ "type": "Feature", "properties": { "id": "GS09", "name": "Floresta Petrificada", "geopark": "Araripe" }, "geometry": { "type": "Point", "coordinates": [ -39.145333013241732, -7.270378233781899 ] } }
+]
+}
